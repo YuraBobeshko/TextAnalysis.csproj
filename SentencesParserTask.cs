@@ -14,36 +14,38 @@ namespace TextAnalysis
             
             for (int i = 0; i < text.Length; i++)
             {
-                if (char.IsLetter(text[i]))
+                var item = char.ToLower(text[i]);
+                
+                if (char.IsLetter(item) || item == '\'')
                 {
                     if (shouldAddNewList)
                     {
-                        sentencesList.Add(new List<string>(text[i]));
-                    } 
+                        sentencesList.Add(new List<string> { item.ToString() });
+                    }
                     else if (shouldAddToExistedWord)
                     {
                         var index = sentencesList.Count - 1;
                         if (sentencesList[index].Count == 0)
                         {
-                            sentencesList[index][sentencesList[index].Count] = text[i].ToString();
-                        } 
+                            sentencesList[index].Add(item.ToString());
+                        }
                         else
                         {
-                            sentencesList[index][sentencesList[index].Count - 1] += text[i].ToString();
+                            sentencesList[index][sentencesList[index].Count - 1] += item.ToString();
                         }
-                    } 
+                    }
                     else
                     {
-                        sentencesList[sentencesList.Count - 1].Add(text[i].ToString());
+                        sentencesList[sentencesList.Count - 1].Add(item.ToString());
                     }
 
                     shouldAddNewList = false;
                     shouldAddToExistedWord = true;
-                } 
-                else if (symbolsToCheck.Contains(text[i].ToString()) )
+                }
+                else if (symbolsToCheck.Contains(item.ToString()))
                 {
                     shouldAddNewList = true;
-                }  
+                }
                 else
                 {
                     shouldAddToExistedWord = false;

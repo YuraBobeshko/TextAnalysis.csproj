@@ -1,0 +1,14 @@
+C:\Users\gorob\Desktop\TextAnalysis.csproj\bin\Debug\HarryPotterText.txt
+C:\Users\gorob\Desktop\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe.config
+C:\Users\gorob\Desktop\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe
+C:\Users\gorob\Desktop\TextAnalysis.csproj\bin\Debug\TextAnalysis.pdb
+C:\Users\gorob\Desktop\TextAnalysis.csproj\bin\Debug\nunit.framework.dll
+C:\Users\gorob\Desktop\TextAnalysis.csproj\bin\Debug\nunitlite.dll
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CopyComplete
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.exe
+C:\Users\gorob\Desktop\TextAnalysis.csproj\obj\Debug\TextAnalysis.pdb

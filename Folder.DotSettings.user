@@ -4,11 +4,22 @@
     &lt;TestId&gt;NUnit3x::E7F5D985-677D-4246-BA75-4BAE24DF38B5::.NETFramework,Version=v4.7.2::TextAnalysis.SentencesParser_Tests.ReturnCorrectResult_OnTextWithOneSentenceWithOneWord&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a4bd55e8_002Df36b_002D4bdc_002Db143_002D87a5073539f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SentencesParser_Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94db6d7c_002D06ba_002D4a58_002Daa24_002Ded241369061d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FrequencyAnalysis_Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E7F5D985-677D-4246-BA75-4BAE24DF38B5::.NETFramework,Version=v4.7.2::TextAnalysis.SentencesParser_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E7F5D985-677D-4246-BA75-4BAE24DF38B5::.NETFramework,Version=v4.7.2::TextAnalysis.FrequencyAnalysis_Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4f5baff_002De4b0_002D4291_002Db956_002D25f38ba539aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReturnResult_WithMostFrequentBigrams" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E7F5D985-677D-4246-BA75-4BAE24DF38B5::.NETFramework,Version=v4.7.2::TextAnalysis.FrequencyAnalysis_Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee412e42_002D60ba_002D452e_002Db2c7_002D08945fef24bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FrequencyAnalysis_Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E7F5D985-677D-4246-BA75-4BAE24DF38B5::.NETFramework,Version=v4.7.2::TextAnalysis.FrequencyAnalysis_Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
 	
 	
 	</wpf:ResourceDictionary>

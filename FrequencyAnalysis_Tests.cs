@@ -54,6 +54,7 @@ namespace TextAnalysis
         [Order(03)]
         public void ReturnCorrectResult_OnTextWithOneSentenceWithMultipleWords()
         {
+            
             var text = "x y z";
             var parsedText = ParseText(text);
             var expected = new Dictionary<string, string>
